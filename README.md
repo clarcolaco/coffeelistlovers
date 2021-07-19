@@ -10,4 +10,4 @@ A simple flutter aplication with four screens.
 Future features
 
 - Conect with data for informations of coffees with images.
-- Create database.
+- Create remote database.
